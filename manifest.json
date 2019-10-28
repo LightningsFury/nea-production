@@ -1,0 +1,15 @@
+{
+  "short_name": "NEA Project",
+  "name": "NEA Song Project",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#282c34",
+  "background_color": "#53565d"
+}
